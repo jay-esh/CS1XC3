@@ -1,7 +1,0 @@
-make --dry-run --keep-going --print-directory
-make: Entering directory `/Users/jayesh/Desktop/practice/CS1XC3/CS1XC3'
- 
-make: *** No targets specified and no makefile found.  Stop.
-
-make: Leaving directory `/Users/jayesh/Desktop/practice/CS1XC3/CS1XC3'
- 
